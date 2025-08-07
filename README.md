@@ -20,6 +20,58 @@ Languages Used
 - **C++** – Object-oriented programming, STL (Standard Template Library)
 - **Java** – Class-based, platform-independent, object-oriented
 - **Python** – High-level, dynamically typed, easy to read
+- 
+ How to Install Dev C++ on Windows
+🔹 Step 1: Download Dev C++
+Go to the official or trusted website:
+
+https://sourceforge.net/projects/orwelldevcpp/
+
+Or use https://www.bloodshed.net/devcpp.html (for older versions)
+
+Click on the “Download” button.
+
+🔹 Step 2: Run the Installer
+Locate the downloaded file (usually in your Downloads folder).
+
+Double-click the .exe file to launch the setup.
+
+Choose your language (English is default) → Click OK.
+
+Click Next to agree with the license terms.
+
+Choose the installation location (or leave it as default).
+
+Click Install.
+
+🔹 Step 3: Complete Installation
+Once the installation is finished, click Finish.
+
+Launch Dev C++ from the desktop or start menu.
+
+🔹 Step 4: Configure Dev C++ (First Time Use)
+When it opens the first time, choose:
+
+Language: English
+
+Theme: Classic (or choose any)
+
+Compiler: Default is TDM-GCC 4.9.2 (recommended)
+
+Click OK.
+
+✅ You're Ready to Use Dev C++
+Now you can:
+
+Click File > New > Source File
+
+Write your C or C++ program
+
+Save the file with .c or .cpp extension
+
+Click Execute > Compile & Run or press F11
+
+
 
 - To write the first C program, open the C console and write the following code:
 
